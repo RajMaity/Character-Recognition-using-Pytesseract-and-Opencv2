@@ -1,0 +1,1 @@
+# Character-Recognition-using-Pytesseract-and-Opencv2
